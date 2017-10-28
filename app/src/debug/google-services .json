@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "974467887267",
+    "firebase_url": "https://vihaanuser.firebaseio.com",
+    "project_id": "vihaanuser",
+    "storage_bucket": "vihaanuser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974467887267:android:87cd5d87fa45d7a6",
+        "android_client_info": {
+          "package_name": "com.hyss.vihaanuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974467887267-8stji8k4mkdfqv9odrs34pfejtp51uad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hyss.vihaanuser",
+            "certificate_hash": "b7c753c55cdc851eeaf845b576c2416b2479b769"
+          }
+        },
+        {
+          "client_id": "974467887267-2cidcqcln97i34v064b51tlnkp95mhtq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYwM24dLFhOhMrtuoYMOG25_Y1FcSL4WM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974467887267-2cidcqcln97i34v064b51tlnkp95mhtq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

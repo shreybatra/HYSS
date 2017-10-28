@@ -12,3 +12,4 @@ Python(Backend services), Rest API, Heroku(API deployment), Android(User Interfa
 
 # WorkFlow
 
+It is a multi victim-server application. The victim can send a SOS to the nearest help stations like fire station in case of fire. The help station gets the SOS, and can act upon it quickly.

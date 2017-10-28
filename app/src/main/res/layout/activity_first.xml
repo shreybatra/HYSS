@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context="com.hyss.vihaanuser.FirstActivity">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:id="@+id/ibFire"
+        android:layout_gravity="center_horizontal"
+        android:text = "Fire"
+        android:textSize="30dp"
+        android:layout_height="10dp"
+        android:layout_weight="0.33"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp"
+        android:scaleType="fitCenter"
+
+        />
+
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:id="@+id/ibEarthquake"
+        android:layout_height="10dp"
+        android:layout_weight="0.33"
+        android:textSize="30dp"
+        android:layout_gravity="center_horizontal"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp"
+        android:text="Earthquake"
+        android:scaleType="fitCenter"
+        />
+
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:id="@+id/ibFlood"
+        android:layout_height="10dp"
+        android:layout_weight="0.33"
+        android:text="Flood"
+        android:textSize="30dp"
+        android:layout_gravity="center_horizontal"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp"
+
+        android:scaleType="fitCenter"
+        />
+
+
+</LinearLayout>

@@ -9,7 +9,7 @@ geopy==1.11.0
 gunicorn==19.7.1
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 MarkupSafe==1.0
 pycparser==2.18
 pyOpenSSL==17.3.0
